@@ -17,6 +17,8 @@ niveles: variable para controla nivel de recursividad
 def arbolH(tam,xpos,ypos,niveles):
     if niveles == 0 :
         return
+    if niveles > 100 :
+        return
 
     t = turtle.Turtle()
 #Establecemos velocida de dibujo a nivel maximo
