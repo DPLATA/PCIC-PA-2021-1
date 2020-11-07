@@ -7,16 +7,16 @@ referencias: Andrews, R. (2020).
             https://www.codementor.io/@info658/python-recursion-fun-with-fractals-19ha74wokh
 """
 #velocidad del dibujo
-SPEED = 6
+SPEED = 12
 #color de fondo y del trazo
 BG_COLOR = "black"
 PEN_COLOR = "white"
 #dimensiones de la ventana en px
-SCREEN_WIDTH = 800
-SCREEN_HEIGHT = 800
+SCREEN_WIDTH = 1000
+SCREEN_HEIGHT = 1000
 #dimensiones del trazo en px
-DRAWING_WIDTH = 800
-DRAWING_HEIGHT = 800
+DRAWING_WIDTH = 500
+DRAWING_HEIGHT = 500
 #grosor del trazo
 PEN_WIDTH = 3
 #titulo de la ventana
